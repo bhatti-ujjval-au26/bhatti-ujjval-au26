@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhatti-ujjval-au26
-- 👀 looking for project
-- 💞️ I’m looking to collaborate on react and html css project
+
 - 📫 bhattiujjval007@gmail.com
 
 <!---
